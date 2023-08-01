@@ -1,4 +1,11 @@
-### Hi there 👋
+## Salut! 👋 ![33a9692bb433e63e0fccfaabf9e82d10](https://github.com/Wishrito/Wishrito/assets/110767037/606e838d-e8a9-4543-8703-5fe449bb42c3)
+![status](https://api.statusbadges.me/badge/status/911467405115535411)
+
+### Ce que je fais en ce moment :
+[![spotify](https://api.statusbadges.me/badge/spotify/911467405115535411)](https://api.statusbadges.me/openspotify/911467405115535411)
+![vscode](https://api.statusbadges.me/badge/vscode/911467405115535411)
+![playing](https://api.statusbadges.me/badge/playing/911467405115535411)
+
 
 <!--
 **Wishrito/Wishrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
