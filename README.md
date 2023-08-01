@@ -1,5 +1,5 @@
 ## Salut! 👋 ![33a9692bb433e63e0fccfaabf9e82d10](https://github.com/Wishrito/Wishrito/assets/110767037/606e838d-e8a9-4543-8703-5fe449bb42c3)
-![status](https://api.statusbadges.me/badge/status/911467405115535411) ![Discord](https://img.shields.io/discord/1130945537181499542?logo=discord&label=Viens%20discuter%20!)
+![status](https://api.statusbadges.me/badge/status/911467405115535411) ![Discord](https://img.shields.io/discord/1130945537181499542?logo=discord&label=La%20Boulangerie%20!)
 
 
 ### Ce que je fais en ce moment :
