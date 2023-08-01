@@ -7,6 +7,10 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/911467405115535411)
 ![playing](https://api.statusbadges.me/badge/playing/911467405115535411)
 
+### Stats
+[![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=wishrito)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Wishrito/Wishrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
