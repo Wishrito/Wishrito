@@ -1,10 +1,10 @@
-# Salut! 👋
+# Hello! 👋
 ![status](https://api.statusbadges.me/badge/status/911467405115535411) ![Discord](https://img.shields.io/discord/1130945537181499542?logo=discord&label=La%20Boulangerie%20!)
 
 
 
 
-### Ce que je fais en ce moment :
+### What i'm actually doing on Discord :
 [![spotify](https://api.statusbadges.me/badge/spotify/911467405115535411)](https://api.statusbadges.me/openspotify/911467405115535411)
 ![vscode](https://api.statusbadges.me/badge/vscode/911467405115535411)
 ![playing](https://api.statusbadges.me/badge/playing/911467405115535411)
