@@ -1,5 +1,5 @@
 # Hello! 👋
-![status](https://api.statusbadges.me/badge/status/911467405115535411) ![Discord](https://img.shields.io/discord/1130945537181499542?logo=discord&label=La%20Boulangerie%20!)
+![status](https://api.statusbadges.me/badge/status/911467405115535411) ![Discord](https://img.shields.io/discord/1130945537181499542?logo=discord&label=La%20Boulangerie%20!) [![wakatime](https://wakatime.com/badge/user/3266adf6-aecf-48b2-b829-18a12a60e49d.svg)](https://wakatime.com/@3266adf6-aecf-48b2-b829-18a12a60e49d)
 
 
 
