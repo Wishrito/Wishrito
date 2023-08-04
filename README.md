@@ -12,14 +12,14 @@
 ![playing](https://api.statusbadges.me/badge/playing/911467405115535411?style=flat)
 
 ## Github Stats :
-[![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=wishrito&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wishrito&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## programming languages :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishrito&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishrito&layout=compact&theme=transparent)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wishrito)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wishrito&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Wishrito/Wishrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
