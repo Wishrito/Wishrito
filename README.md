@@ -11,6 +11,8 @@
 
 ![playing](https://api.statusbadges.me/badge/playing/911467405115535411?style=flat)
 
+![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/911467405115535411)
+
 ## Github Stats :
 [![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wishrito&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
