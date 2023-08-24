@@ -14,14 +14,14 @@
 ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/911467405115535411)
 
 ## Github Stats :
-[![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wishrito&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wishrito&show_icons=true&bg_color=DEG,0000FF,000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## programming languages :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishrito&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishrito&layout=compact&bg_color=DEG,0000FF,000000)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wishrito&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wishrito&bg_color=DEG,0000FF,000000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Wishrito/Wishrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
