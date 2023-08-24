@@ -18,7 +18,7 @@
 
 
 ## programming languages :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishrito&layout=compact&bg_color=DEG,0000FF,000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wishrito&layout=compact&bg_color=DEG,0000FF,000000)
 
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wishrito&bg_color=DEG,0000FF,000000)](https://github.com/anuraghazra/github-readme-stats)
