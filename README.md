@@ -5,13 +5,9 @@
 
 
 ### What i'm actually doing on Discord :
-[![spotify](https://api.statusbadges.me/badge/spotify/911467405115535411?style=flat)](https://api.statusbadges.me/openspotify/911467405115535411)
+[![spotify](https://api.statusbadges.me/badge/spotify/911467405115535411?style=flat)](https://api.statusbadges.me/openspotify/911467405115535411) ![vscode](https://api.statusbadges.me/badge/vscode/911467405115535411?style=flat)
 
-![vscode](https://api.statusbadges.me/badge/vscode/911467405115535411?style=flat)
-
-![playing](https://api.statusbadges.me/badge/playing/911467405115535411?style=flat)
-
-![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/911467405115535411)
+![playing](https://api.statusbadges.me/badge/playing/911467405115535411?style=flat) ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/911467405115535411)
 
 ## Github Stats :
 [![Wishrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wishrito&show_icons=true&bg_color=DEG,0000FF,000000)](https://github.com/anuraghazra/github-readme-stats)
