@@ -1,5 +1,5 @@
 # Hello! 👋
-![status](https://api.statusbadges.me/badge/status/911467405115535411) [![](https://dcbadge.vercel.app/api/server/AgNBsaBYde?style=flat)](https://discord.gg/AgNBsaBYde) [![wakatime](https://wakatime.com/badge/user/3266adf6-aecf-48b2-b829-18a12a60e49d.svg)](https://wakatime.com/@3266adf6-aecf-48b2-b829-18a12a60e49d)
+![status](https://api.statusbadges.me/badge/status/911467405115535411) [![](https://dcbadge.vercel.app/api/server/AgNBsaBYde?style=flat)](https://discord.gg/WvB7wxnbyb) [![wakatime](https://wakatime.com/badge/user/3266adf6-aecf-48b2-b829-18a12a60e49d.svg)](https://wakatime.com/@3266adf6-aecf-48b2-b829-18a12a60e49d)
 
 
 
